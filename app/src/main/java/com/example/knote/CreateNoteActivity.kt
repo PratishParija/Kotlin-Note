@@ -20,7 +20,6 @@ class CreateNoteActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_create_note)
         init()
-
     }
 
     private fun init() {
